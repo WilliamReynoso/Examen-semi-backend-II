@@ -14,8 +14,8 @@
 
 -Reporte por usuario el cual muestra las fechas que debera pagar o son de cobro
 
-# Que pasa si el dia de pago es Domingo????? Se pasa el dia de pago al dia siguiente
-# Deberan realizar un analisis de las necesidades que ocupara solicitar extras al cliente y en el sistema
+#Que pasa si el dia de pago es Domingo????? Se pasa el dia de pago al dia siguiente
+#Deberan realizar un analisis de las necesidades que ocupara solicitar extras al cliente y en el sistema
 
 pago("pako",cuantos_pagos)
 fecha inicial 12 enero del 2023 -> mensual, 12 meses
